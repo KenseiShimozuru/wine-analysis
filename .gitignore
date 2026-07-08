@@ -1,1 +1,5 @@
 data/
+secret.txt
+*.log
+!important.log
+/cache/
